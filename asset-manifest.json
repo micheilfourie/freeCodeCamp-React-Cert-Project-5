@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/freeCodeCamp-React-Cert-Project-5/static/css/main.e2ca9a72.css",
+    "main.js": "/freeCodeCamp-React-Cert-Project-5/static/js/main.e69c4fa7.js",
+    "static/media/alarm-beep.mp3": "/freeCodeCamp-React-Cert-Project-5/static/media/alarm-beep.ba92e98593024437269c.mp3",
+    "index.html": "/freeCodeCamp-React-Cert-Project-5/index.html",
+    "main.e2ca9a72.css.map": "/freeCodeCamp-React-Cert-Project-5/static/css/main.e2ca9a72.css.map",
+    "main.e69c4fa7.js.map": "/freeCodeCamp-React-Cert-Project-5/static/js/main.e69c4fa7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2ca9a72.css",
+    "static/js/main.e69c4fa7.js"
+  ]
+}
