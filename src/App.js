@@ -5,7 +5,6 @@ import Timer from './Timer.js';
 import { useState, useEffect } from 'react';
 
 function App() {
-
   const [breakLength, setBreakLength] = useState(5);
   const [sessionLength, setSessionLength] = useState(25);
   const [timerType, setTimerType] = useState("Session");
